@@ -1,0 +1,2 @@
+# badmoney
+Cryptocurrency

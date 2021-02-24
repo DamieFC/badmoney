@@ -1,2 +1,2 @@
 # badmoney
-Cryptocurrency
+Worthless cryptocurrency

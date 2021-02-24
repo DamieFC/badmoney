@@ -1,0 +1,2 @@
+currency_amount=999,999,999,999
+currency_value=5-USD

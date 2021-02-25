@@ -1,2 +1,2 @@
 # badmoney
-Worthless cryptocurrency
+Almost worthless cryptocurrency written in C for fun.
